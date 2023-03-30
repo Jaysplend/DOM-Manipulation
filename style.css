@@ -1,0 +1,45 @@
+.card {
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  .card h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  .card input[type="text"] {
+    border: none;
+    border-bottom: 2px solid #ccc;
+    font-size: 16px;
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 100%;
+  }
+  .card button {
+    background-color: #4CAF50;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+  }
+  .card button:hover {
+    background-color: #3e8e41;
+  }
+  .card ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .card li {
+    font-size: 18px;
+    margin-bottom: 10px;
+
+  }
+
+  li button{
+    padding-left: 10px;
+  }
